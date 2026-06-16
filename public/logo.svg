@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="256" fill="#FF6A00"/>
+
+  <!-- Cat face base - British Shorthair blue (grey-blue) -->
+  <ellipse cx="256" cy="276" rx="160" ry="148" fill="#7B8FA1"/>
+
+  <!-- Left ear -->
+  <path d="M120 180 L90 80 L180 150 Z" fill="#7B8FA1"/>
+  <path d="M128 170 L105 95 L170 152 Z" fill="#F4A6C0"/>
+
+  <!-- Right ear -->
+  <path d="M392 180 L422 80 L332 150 Z" fill="#7B8FA1"/>
+  <path d="M384 170 L407 95 L342 152 Z" fill="#F4A6C0"/>
+
+  <!-- Forehead - lighter area -->
+  <ellipse cx="256" cy="230" rx="120" ry="80" fill="#8FA3B5" opacity="0.5"/>
+
+  <!-- Left eye white -->
+  <ellipse cx="200" cy="260" rx="40" ry="36" fill="#E8F4E8"/>
+
+  <!-- Right eye white -->
+  <ellipse cx="312" cy="260" rx="40" ry="36" fill="#E8F4E8"/>
+
+  <!-- Left eye iris - golden/amber -->
+  <ellipse cx="200" cy="260" rx="22" ry="22" fill="#D4A017"/>
+
+  <!-- Right eye iris - golden/amber -->
+  <ellipse cx="312" cy="260" rx="22" ry="22" fill="#D4A017"/>
+
+  <!-- Left pupil -->
+  <ellipse cx="200" cy="260" rx="10" ry="16" fill="#1A1A2E"/>
+
+  <!-- Right pupil -->
+  <ellipse cx="312" cy="260" rx="10" ry="16" fill="#1A1A2E"/>
+
+  <!-- Left eye shine -->
+  <circle cx="208" cy="252" r="6" fill="white" opacity="0.9"/>
+  <circle cx="194" cy="266" r="3" fill="white" opacity="0.6"/>
+
+  <!-- Right eye shine -->
+  <circle cx="320" cy="252" r="6" fill="white" opacity="0.9"/>
+  <circle cx="306" cy="266" r="3" fill="white" opacity="0.6"/>
+
+  <!-- Nose - pink triangle -->
+  <path d="M248 300 L256 310 L264 300 Z" fill="#F4A6C0"/>
+
+  <!-- Mouth -->
+  <path d="M256 310 Q246 320 236 316" stroke="#5A6978" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M256 310 Q266 320 276 316" stroke="#5A6978" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Whiskers left -->
+  <line x1="160" y1="290" x2="90" y2="280" stroke="#5A6978" stroke-width="2" stroke-linecap="round"/>
+  <line x1="160" y1="300" x2="85" y2="300" stroke="#5A6978" stroke-width="2" stroke-linecap="round"/>
+  <line x1="160" y1="310" x2="90" y2="320" stroke="#5A6978" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Whiskers right -->
+  <line x1="352" y1="290" x2="422" y2="280" stroke="#5A6978" stroke-width="2" stroke-linecap="round"/>
+  <line x1="352" y1="300" x2="427" y2="300" stroke="#5A6978" stroke-width="2" stroke-linecap="round"/>
+  <line x1="352" y1="310" x2="422" y2="320" stroke="#5A6978" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Cheek blush left -->
+  <ellipse cx="170" cy="310" rx="20" ry="12" fill="#F4A6C0" opacity="0.4"/>
+
+  <!-- Cheek blush right -->
+  <ellipse cx="342" cy="310" rx="20" ry="12" fill="#F4A6C0" opacity="0.4"/>
+
+  <!-- Text "TC" for TestCo-pilot -->
+  <text x="256" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="48" fill="white">TC</text>
+</svg>
